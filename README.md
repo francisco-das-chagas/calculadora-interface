@@ -1,6 +1,6 @@
 # Calculadora-interface 🖩
 Praticando Html e CSS com a criação de uma interface de uma calculadora tirada do site dribbble para pratica de html e css.
-a ideia é chegar o mais próximo possivel da interface.
+A ideia é chegar o mais próximo possivel da interface.
 
 ## Imagem exemplo:
 
